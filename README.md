@@ -2,7 +2,7 @@
 -- PhonePe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Streamlit and Plotly
 
 
-# Work Dome in Jupiter Notebook
+# Work Done in Jupiter Notebook
   -- PhonePe pulse data are fetched using Git Clone from PhonePe's Repo
   -- All the fetched data are in JSOM format. So the Data are converted to Data Frame using Pandas library.
   -- The converted data are then converted to CSV format and downloaded to local environment.
