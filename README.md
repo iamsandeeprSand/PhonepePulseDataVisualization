@@ -15,7 +15,7 @@
   -- Now the CSV file is fetched from the local environment to Python and then converted to Data Frame.
   -- The files converted to Data Frame are then moved to SQL using insert query and PostgreSQL connection.
   
-  Streamlit :-
+  # Streamlit :-
    -- In Streamlit the visualizations and presentations are done using Plotly in python.
          Visualization is done in map using Chorapleth.
    -- When a combination of options are selected in Streamlit in the front end, accordingly code and query is 
